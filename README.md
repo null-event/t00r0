@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @t00r0
+- 👋 Hi, I’m @t00r0.
 - 👀 I’m interested in hacking all the things.
 - 🌱 I’m currently learning C# and sharpening my internal inf skills for OSEP.
 - 💞️ I’m looking to collaborate on nothing at the momemt.
